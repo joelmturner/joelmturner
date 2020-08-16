@@ -6,7 +6,9 @@ I'm a developer, mainly working in JavaScript. I'm currently living in Portland 
 
 #### What I'm Learning
 
-I try to write about [what I'm learning](https://joelmturner.com/blog) on my site. Here are some of the topics:
+I try to write about what I'm learning on [my site](https://joelmturner.com/blog), on [DEV](https://dev.to/joelmturner), and explore code samples through [CodeSandbox](https://codesandbox.io/dashboard/all/data-vis).
+
+Here are some of the topics I'm learning about:
 
 - Data Visualization
 - TypeScript
