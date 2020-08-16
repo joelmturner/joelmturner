@@ -30,6 +30,7 @@ Lately, I have been able to contribute to the following projects.
 - [gatsby-source-instagram](https://github.com/oorestisime/gatsby-source-instagram)
 
 </div>
+
 </div>
 
 #### Lettering/Sketching
