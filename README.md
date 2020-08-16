@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Joel (he/him) 👋🏻👨🏻‍💻🖋
 
-<!--
-**joelmturner/joelmturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image with the words Joel M Turner in bold and subtext that says Front End Developer, Illustrator, lover of kombucha](https://raw.githubusercontent.com/joelmturner/joelmturner/master/gh-profile-cover-joelmturner.jpg)
 
-Here are some ideas to get you started:
+I'm a developer, mainly working in JavaScript. I'm currently living in Portland and working at [Sprinklr](https://www.sprinklr.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm Learning
+
+I try to write about [what I'm learning](https://joelmturner.com/blog) and share my [illustrations](https://joelmturner.com/illustration) on my site. Here are some of the topics:
+
+- Data Visualization
+- TypeScript
+- React
+- Productivity
+
+#### Fun Projects
+
+- [PDX Burger Week](https://pdx-burger-week.netlify.app/)
+- [PDX Nacho Week](https://pdx-nacho-week.netlify.app/)
