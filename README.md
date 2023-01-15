@@ -2,18 +2,18 @@
 
 ![image with the words Joel M Turner in bold and subtext that says Front End Developer, Illustrator, lover of kombucha](https://raw.githubusercontent.com/joelmturner/joelmturner/master/gh-profile-cover-joelmturner.jpg)
 
-I'm a developer, mainly working in JavaScript. I'm currently living in Portland and working at [Sprinklr](https://www.sprinklr.com/).
+I'm a developer, mainly working in TypeScript. I'm currently living in Portland and working at [Sprinklr](https://www.sprinklr.com/).
 
 #### What I'm Learning
 
-I try to write about what I'm learning on [my site](https://joelmturner.com/blog), on [DEV](https://dev.to/joelmturner), and explore code samples through [CodeSandbox](https://codesandbox.io/dashboard/all/data-vis).
+I try to write about what I'm learning on [my site](https://joelmturner.com/blog), on [DEV](https://dev.to/joelmturner), and explore code samples through [CodeSandbox](https://codesandbox.io/u/joelmturner).
 
 Here are some of the topics I'm learning about:
 
 - Data Visualization
 - TypeScript
-- React
 - Productivity
+- Optimization
 
 #### Cool Projects
 
