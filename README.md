@@ -19,9 +19,17 @@ Here are some of the topics I'm learning about:
 
 Lately, I have been able to contribute to the following projects.
 
-- [WHO COVID-19 Dashboard](https://covid19.who.int/)
-- [COVID HQ Africa](https://www.covidhqafrica.com/)
+- WHO COVID-19 Dashboard
+- COVID HQ Africa
 - [gatsby-source-instagram](https://github.com/oorestisime/gatsby-source-instagram)
+
+And some of my own
+
+- [Instagram to Cloudinary](https://github.com/joelmturner/instagram-cloudinary)
+- [Boochtown](https://boochtown.com)
+- [Emotional Recipes](https://emotional-recipes.com/)
+- [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
+
 
 #### Lettering/Sketching
 
